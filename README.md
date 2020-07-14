@@ -7,7 +7,7 @@
 
 ### Ahead, some of my favorite languages:
 - Python🐍
-- Java☕ (im learn it now, and im finding i amezing 🤩)
+- Java☕ (I'm learn it now and finding it amazing 🤩)
 - SQL🎲
 - And in the free time, i play with React-js ❄️
 
