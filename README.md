@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi!! My name is Renato Cesar 👨🏻‍💻
 
-<!--
-**RenatoCesarF/RenatoCesarF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⌨️ I'm a software Developer
+### [🗨️ My LinkedIn 👈](https://www.linkedin.com/in/renato-cesar-a31534193/)
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ahead, some of my favorite languages:
+- Python🐍
+- Java☕ (im learn it now, and im finding i amezing 🤩)
+- SQL🎲
+- And in the free time, i play with React-js ❄️
+
+### And here are some of my features:
+- 🧩 Problem Solver
+- 💪 hardworking
+- 🗣️ Comunicative 
+
+<hr>
+
+### 🌲🌲I'll try, starting today (07/13), make at least one commit per day🌲🌲
+###  👇Se below if I'm going well 👇
