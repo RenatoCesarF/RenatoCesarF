@@ -1,22 +1,38 @@
-## Hi!! My name is Renato Cesar 👨🏻‍💻
 
-### ⌨️ I'm a software Developer ⌨️
-### [🗨️ My LinkedIn 👈](https://www.linkedin.com/in/renato-cesar-a31534193/)
-
+<h1 align="center">Hi 👋, I'm Renato Cesar Ferreira</h1>
+<h3 align="center">⌨️A Software Developer that loves what do!⌨️</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=renatocesarf" alt="renatocesarf" /> </p>
 <hr>
 
-### Ahead, some of my favorite languages:
-- Python🐍
-- Java☕ (I'm learn it now and finding it amazing 🤩)
-- SQL🎲
-- And in the free time, i play with React-js ❄️
 
-### And here are some of my features:
+### Here are some of my features:
 - 🧩 Problem Solver
 - 💪 hardworking
 - 🗣️ Comunicative 
 
 <hr>
 
+- 👨‍💻 All of my projects are available at [https://renatocesar.netlify.app/](https://renatocesar.netlify.app/) and here at GitHub
+
+- 📫 How to reach me **re.fbarcellos@hotmail.com**
+
+<p align="center">
+  <img src=https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="60" height="60"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+</p>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=renatocesarf&show_icons=true" alt="renatocesarf" /> 
+</p>
+ 
+
+<p align="center">
+  <a href="https://twitter.com/nerat0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nerat0"      height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/renato-cesar-a31534193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="renatocesar" height="20" width="20" /></a>
+</p>
+
+<p align="center">
 ### 🌲🌲I'll try, starting today (07/13), make at least one commit per day🌲🌲
 ###  👇Se below if I'm going well 👇
+<p/>
