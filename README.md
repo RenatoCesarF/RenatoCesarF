@@ -12,6 +12,11 @@
 
 <hr>
 
+<p align="center">
+<img  src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
+</p>
+
+
 ### Some of my features:
 - 🧩 Problem Solver
 - 💪 hardworking
