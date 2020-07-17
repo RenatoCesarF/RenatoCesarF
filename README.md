@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src=https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="60" height="60"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
+  <img src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/python.svg" alt="python" width="60" height="60"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
 </p>
  
@@ -32,7 +32,6 @@
   <a href="https://www.linkedin.com/in/renato-cesar-a31534193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="renatocesar" height="20" width="20" /></a>
 </p>
 
-<p align="center">
-### 🌲🌲I'll try, starting today (07/13), make at least one commit per day🌲🌲
-###  👇Se below if I'm going well 👇
-<p/>
+<p align="center">🌲🌲I'll try, starting today (07/13), make at least one commit per day🌲🌲<p/>
+
+<p align="center"> 👇Se below if I'm going well 👇 <p/>
