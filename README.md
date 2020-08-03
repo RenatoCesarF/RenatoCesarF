@@ -33,9 +33,9 @@
 
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renatocesarf&show_icons=true" alt="renatocesarf" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=RenatoCesarF&show_icons=true&theme=cobalt" alt="renatocesarf" /> 
 </p>
- 
+
 
 <p align="center">🌲🌲I'll try, starting today (07/13), make at least one commit per day🌲🌲<p/>
 <p align="center"> 👇Se below if I'm going well 👇 <p/>
@@ -50,4 +50,8 @@
   </a>
   <a href="https://www.linkedin.com/in/renato-cesar-a31534193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="renatocesar" height="20" width="20" />
   </a>
+    <a href="https://www.youtube.com/channel/UCHPXJJhhkw1i7oAkq_Mcumw?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="renatocesar" height="20" width="20" />
+  </a>
+  
+  
 </p>
