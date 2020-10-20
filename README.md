@@ -30,15 +30,14 @@
 
 - 📫 How to reach me **re.fbarcellos@hotmail.com**
 
+- 🕹️ I'm making a Game and sharing it process in <a  href="https://www.youtube.com/channel/UCHPXJJhhkw1i7oAkq_Mcumw?view_as=subscriber">Youtube <a/>
+
 
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RenatoCesarF&show_icons=true&theme=cobalt" alt="renatocesarf" /> 
 </p>
 
-
-<p align="center">🌲🌲I'll try, starting today (07/13), make at least one commit per day🌲🌲<p/>
-<p align="center"> 👇Se below if I'm going well 👇 <p/>
 
 
 <p align="center">
