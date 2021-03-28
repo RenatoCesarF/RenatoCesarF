@@ -54,20 +54,17 @@
 <p/>
     
 <p align="center">
-  <a href="https://re.fbarcellos@hotmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/dusk/64/000000/gmail.png" alt="renatocesar" height="40" width="40"  />
-  </a>
   
   <a href="https://twitter.com/nerat0" target="blank">
     <img align="center" src="https://img.icons8.com/dusk/64/000000/twitter.png" alt="nerat0" height="40" width="40" />
   </a>
   
-  <a href="https://www.linkedin.com/in/renato-cesar-a31534193/" target="blank">
-    <img  align="center" src="https://img.icons8.com/dusk/64/000000/linkedin.png"   height="40" width="40"/>
-  </a>
-
   <a href="https://www.youtube.com/channel/UCHPXJJhhkw1i7oAkq_Mcumw?view_as=subscriber" target="blank">
     <img align="center" src="https://img.icons8.com/dusk/64/000000/youtube-play.png" alt="renatocesar" height="40" width="40"  />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/renato-cesar-a31534193/" target="blank">
+    <img  align="center" src="https://img.icons8.com/dusk/64/000000/linkedin.png"   height="40" width="40"/>
   </a>
   
   <a href="https://medium.com/@re.fbarcellossg" target="blank">
