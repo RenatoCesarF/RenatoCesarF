@@ -51,11 +51,10 @@
 
 <p align="center">
   <a href="re.fbarcellos@hotmail.com" src="https://image.flaticon.com/icons/svg/408/408195.svg" width="20" height="20"> <a/>
-
 <p/>
     
 <p align="center">
-  <a href="re.fbarcellos@hotmail.com" target="blank">
+  <a href="https://re.fbarcellos@hotmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/dusk/64/000000/gmail.png" alt="renatocesar" height="40" width="40"  />
   </a>
   
