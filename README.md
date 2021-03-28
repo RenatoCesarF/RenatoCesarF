@@ -40,19 +40,41 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RenatoCesarF&show_icons=true&theme=cobalt" alt="renatocesarf" /> 
 </p>
 
+<p align="center">
+<a  href="https://renatocesar.netlify.app/">
+ <img src="https://img.icons8.com/dusk/64/000000/favourite-file.png"/>
+</a>
+</p>
+
+
 
 
 <p align="center">
   <a href="re.fbarcellos@hotmail.com" src="https://image.flaticon.com/icons/svg/408/408195.svg" width="20" height="20"> <a/>
+
 <p/>
     
 <p align="center">
-  <a href="https://twitter.com/nerat0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nerat0"      height="20" width="20" />
-  </a>
-  <a href="https://www.linkedin.com/in/renato-cesar-a31534193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="renatocesar" height="20" width="20" />
-  </a>
-    <a href="https://www.youtube.com/channel/UCHPXJJhhkw1i7oAkq_Mcumw?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="renatocesar" height="20" width="20" />
+  <a href="re.fbarcellos@hotmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/dusk/64/000000/gmail.png" alt="renatocesar" height="40" width="40"  />
   </a>
   
+  <a href="https://twitter.com/nerat0" target="blank">
+    <img align="center" src="https://img.icons8.com/dusk/64/000000/twitter.png" alt="nerat0" height="40" width="40" />
+  </a>
   
+  <a href="https://www.linkedin.com/in/renato-cesar-a31534193/" target="blank">
+    <img  align="center" src="https://img.icons8.com/dusk/64/000000/linkedin.png"   height="40" width="40"/>
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCHPXJJhhkw1i7oAkq_Mcumw?view_as=subscriber" target="blank">
+    <img align="center" src="https://img.icons8.com/dusk/64/000000/youtube-play.png" alt="renatocesar" height="40" width="40"  />
+  </a>
+  
+  <a href="https://medium.com/@re.fbarcellossg" target="blank">
+    <img align="center" src="https://img.icons8.com/dusk/64/000000/medium-new.png" alt="renatocesar" height="40" width="40"  />
+  </a>
+
+<img />
+
 </p>
