@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **re.fbarcellos@hotmail.com**
 
-- 🕹️ I'm making a Game and sharing it process in <a  href="https://www.youtube.com/channel/UCHPXJJhhkw1i7oAkq_Mcumw?view_as=subscriber">Youtube <a/>
+- 📼 Watch videos about my projects in <a  href="https://www.youtube.com/channel/UCHPXJJhhkw1i7oAkq_Mcumw?view_as=subscriber">Youtube <a/>
 
 
  
