@@ -67,10 +67,12 @@
     <img  align="center" src="https://img.icons8.com/dusk/64/000000/linkedin.png"   height="40" width="40"/>
   </a>
   
-  <a href="https://medium.com/@re.fbarcellossg" target="blank">
+  <a href="https://medium.com/@re.fbarcellossg">
     <img align="center" src="https://img.icons8.com/dusk/64/000000/medium-new.png" alt="renatocesar" height="40" width="40"  />
   </a>
-
+ <a href="https://www.twitch.tv/renatocesarf">
+    <img src="https://img.icons8.com/dusk/64/000000/twitch--v1.png"/>
+  </a>
 <img />
 
 </p>
