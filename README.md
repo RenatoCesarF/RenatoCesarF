@@ -3,14 +3,8 @@
 <h3 align="center">⌨️A Software Developer that loves what do!⌨️</h3>
 
 <p align="center">
-  <img src="https://image.flaticon.com/icons/svg/919/919828.svg"  width="70 height="70/>
-  <img src="https://image.flaticon.com/icons/svg/919/919851.svg" width="70 height="70/> 
-  <img src="https://image.flaticon.com/icons/svg/919/919852.svg" width="70" height="70">
-  <img src="https://image.flaticon.com/icons/svg/919/919836.svg" width="70" height="70"/>
-  <img src="https://image.flaticon.com/icons/svg/919/919854.svg" width="70" height="70"/>
-  <img src="https://user-images.githubusercontent.com/62253156/111311671-dda60b00-8634-11eb-9612-dddf7ed2c90b.png" width="70" height="70"/>
 
-  <!-- https://image.flaticon.com/icons/svg/2570/2570575.svg -->
+  
 </p>
 
 <hr>
