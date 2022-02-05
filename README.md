@@ -24,11 +24,21 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Meu ano de 2021](https://willianjusten.com.br/meu-ano-de-2021)
+- [Criando o efeito da chuva do Matrix com JavaScript puro](https://willianjusten.com.br/criando-o-efeito-da-chuva-do-matrix-com-javascript-puro)
+- [Usando Netlify CMS com NextJS, Vercel e GitHub](https://willianjusten.com.br/usando-netlify-cms-com-nextjs-vercel-e-github)
+- [Usando o Preact no NextJS para mais performance](https://willianjusten.com.br/usando-o-preact-no-nextjs-para-mais-performance)
+- [Como mostrar trechos de código num blog com NextJS](https://willianjusten.com.br/como-mostrar-trechos-de-codigo-num-blog-com-nextjs)
 <!-- BLOG:END -->
 
 ### 📺 Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Rocks - Devlog #4: Yellow Buttom](https://www.youtube.com/watch?v=47VTUIUntNg)
+- [Rocks -  Devlog #03: First puzzles and play tests](https://www.youtube.com/watch?v=MPfvso_GBVI)
+- [Rocks - Devlog #02: Animations](https://www.youtube.com/watch?v=EIYWtMpsZRc)
+- [Rocks - Devlog #01](https://www.youtube.com/watch?v=nDTOd0dRu90)
+- [Sobre o Projeto - Loopyng](https://www.youtube.com/watch?v=MOxTDfwdxCw)
 <!-- YOUTUBE:END -->
 
 <hr>
