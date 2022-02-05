@@ -34,6 +34,11 @@
 ### 📺 Latest Videos
 
 <!-- YOUTUBE:START -->
+- [Rocks - Devlog #4: Yellow Buttom](https://www.youtube.com/watch?v=47VTUIUntNg)
+- [Rocks -  Devlog #03: First puzzles and play tests](https://www.youtube.com/watch?v=MPfvso_GBVI)
+- [Rocks - Devlog #02: Animations](https://www.youtube.com/watch?v=EIYWtMpsZRc)
+- [Rocks - Devlog #01](https://www.youtube.com/watch?v=nDTOd0dRu90)
+- [Sobre o Projeto - Loopyng](https://www.youtube.com/watch?v=MOxTDfwdxCw)
 <!-- YOUTUBE:END -->
 
 <hr>
