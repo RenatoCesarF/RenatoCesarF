@@ -26,7 +26,7 @@
 <!-- BLOG:START -->
 <!-- BLOG:END -->
 
-### 📺 Latest Videos on YouTube
+### 📺 Latest Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
