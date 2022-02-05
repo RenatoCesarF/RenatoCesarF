@@ -7,30 +7,35 @@
 </a>
 <p align="center">
 
-  
 </p>
 
 <hr>
-
 
 <p align="center">
 <img  src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
 </p>
 
 
-### Some of my features:
+<!-- ### Some of my features:
 - 🧩 Problem Solver
 - 💪 hardworking
-- 🗣️ Comunicative 
+- 🗣️ Comunicative  -->
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+### 📺 Latest Videos on YouTube
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 <hr>
 
 - 👨‍💻 All of my projects are available at [https://renatocesar.netlify.app/](https://renatocesar.netlify.app/) and here at GitHub
 
 - 📫 How to reach me **re.fbarcellos@hotmail.com**
-
-- 📼 Watch videos about my projects in <a  href="https://www.youtube.com/channel/UCHPXJJhhkw1i7oAkq_Mcumw?view_as=subscriber">Youtube <a/>
-
 
  
 <p align="center">
