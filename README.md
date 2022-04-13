@@ -24,11 +24,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [The Easiest Way to Achieve Dark-Theme](https://codingideas.vercel.app/blog/the-easiest-way-to-achieve-dark-theme)
-- [The Way We Do MarkDown Transcriptions](https://codingideas.vercel.app/blog/the-way-we-do-markdown-transcription)
-- [Default Images And Our Images Architecture](https://codingideas.vercel.app/blog/default-images-and-our-images-architecture)
-- [A Provisional Logo And Name](https://codingideas.vercel.app/blog/a-provisional-logo-and-name)
-- [Discovering Meta tags + Website Updates](https://codingideas.vercel.app/blog/discovering-meta-tags-plus-website-uptades)
+- [Implementing An Auto-Generated Summary](https://backtopixels.vercel.app/blog/implementing-an-auto-generated-summary)
+- [The Easiest Way to Achieve Dark-Theme](https://backtopixels.vercel.app/blog/the-easiest-way-to-achieve-dark-theme)
+- [The Way We Do MarkDown Transcriptions](https://backtopixels.vercel.app/blog/the-way-we-do-markdown-transcription)
+- [Default Images And Our Images Architecture](https://backtopixels.vercel.app/blog/default-images-and-our-images-architecture)
+- [A Provisional Logo And Name](https://backtopixels.vercel.app/blog/a-provisional-logo-and-name)
 <!-- BLOG:END -->
 
 ### 📺 Latest Videos
