@@ -15,8 +15,3 @@ jobs:
         with:
           comment_tag_name: BLOG
           feed_list: "https://backtopixels.vercel.app/rss/feed.xml"
-
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: YOUTUBE
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCHPXJJhhkw1i7oAkq_Mcumw"
