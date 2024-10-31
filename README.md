@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Renato Cesar Ferreira</h1>
-<h3 align="center">⌨️A Software Developer that loves what do!⌨️</h3>
-<!-- <a align="center">
+<h3 align="center">⌨️A Software Developer that loves what do!⌨️</h3> <a align="center">
   <img  src="https://user-images.githubusercontent.com/62253156/140199882-8c259ceb-c9e8-45af-b1b3-2e7185a7f2f9.png" />
 
 <p align="center">
@@ -11,7 +10,7 @@
 <hr>
 
 <p align="center">
-<img  src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
+<!-- <img  src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/> -->
 </p>
 
 
