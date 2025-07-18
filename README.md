@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Renato Cesar Ferreira</h1>
-<h3 align="center">⌨️A Software Developer that loves what do!⌨️</h3> <a align="center">
+<h3 align="center">⌨️ A Software Developer who loves what he does! ⌨️</h3>
 <img width="1209" height="206" alt="Frame_119-removebg-preview" src="https://github.com/user-attachments/assets/4dee9de0-832f-43ad-b24e-cdec4b2895a7" />
 
 <p align="center">
@@ -9,15 +9,12 @@
 
 <hr>
 
-<p align="center">
-<!-- <img  src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/> -->
-</p>
+<h2> 👨‍💻 About Me </h2>
+I'm a Software Engineer with a degree in Information Systems and 5 years of experience in back-end development. I specialize in building scalable APIs using Python, TypeScript, Go, and .NET, with a strong foundation in software architecture, including microservices and CI/CD pipelines with GitHub Actions and Kubernetes.
 
+While my focus is on back-end engineering, I also have solid knowledge of React and Flutter, enabling me to contribute across the full stack with a process-optimization mindset.
 
-<!-- ### Some of my features:
-- 🧩 Problem Solver
-- 💪 hardworking
-- 🗣️ Comunicative  -->
+I'm passionate about building scalable, testable, and maintainable applications. I thrive in collaborative environments where I can apply my skills, learn from experienced developers, and take on technical challenges that push me forward. I'm open to feedback and committed to continuous team and product improvement.
 
 ### 📕 Latest Blog Posts
 
@@ -35,7 +32,6 @@
 - 📝 I write some posts about my projects at [Back To Pixels](https://backtopixels.vercel.app)
 - 📫 How to reach me **re.fbarcellos@hotmail.com**
 
- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RenatoCesarF&show_icons=true&theme=cobalt" alt="renatocesarf" /> 
 </p>
@@ -51,11 +47,6 @@
 <p/>
     
 <p align="center">
-  
-  <a href="https://twitter.com/nerat0" target="blank">
-    <img align="center" src="https://img.icons8.com/dusk/64/000000/twitter.png" alt="nerat0" height="40" width="40" />
-  </a>
-  
   <a href="https://www.youtube.com/channel/UCHPXJJhhkw1i7oAkq_Mcumw?view_as=subscriber" target="blank">
     <img align="center" src="https://img.icons8.com/dusk/64/000000/youtube-play.png" alt="renatocesar" height="40" width="40"  />
   </a>
@@ -70,6 +61,4 @@
   <a href="https://www.twitch.tv/renatocesarf" target="blank">
     <img  align="center" src="https://img.icons8.com/dusk/64/000000/twitch--v1.png"  alt="renatocesar"height="40" width="40" />
   </a>
-
-
 </p>
