@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Implementing An Auto-Generated Summary](https://backtopixels.vercel.app/blog/implementing-an-auto-generated-summary)
-- [The Easiest Way to Achieve Dark-Theme](https://backtopixels.vercel.app/blog/the-easiest-way-to-achieve-dark-theme)
-- [The Way We Do MarkDown Transcriptions](https://backtopixels.vercel.app/blog/the-way-we-do-markdown-transcription)
-- [Default Images And Our Images Architecture](https://backtopixels.vercel.app/blog/default-images-and-our-images-architecture)
-- [A Provisional Logo And Name](https://backtopixels.vercel.app/blog/a-provisional-logo-and-name)
+- [Arvore de arquitos em uma TUI](https://backtopixels.com/blog/arvore-de-arquivos-em-uma-tui)
+- [Sofrendo de Skill-issues em um desafio em Lua](https://backtopixels.com/blog/sofrendo-de-skill-issues-em-um-desafio-em-lua)
+- [The Problem with Isometric Graphics](https://backtopixels.com/blog/the-problem-with-isometric-graphics)
+- [A Big Turn in The Rings Project](https://backtopixels.com/blog/a-big-turn-in-the-rings-project)
+- [The Refactoring process in Rings code](https://backtopixels.com/blog/the-refactoring-process-in-rings-code)
 <!-- BLOG:END -->
 
 <hr>
