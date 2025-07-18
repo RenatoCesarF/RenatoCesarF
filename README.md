@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Renato Cesar Ferreira</h1>
 <h3 align="center">⌨️A Software Developer that loves what do!⌨️</h3> <a align="center">
-  <img  src="https://user-images.githubusercontent.com/62253156/140199882-8c259ceb-c9e8-45af-b1b3-2e7185a7f2f9.png" />
+<img width="1209" height="206" alt="Frame_119-removebg-preview" src="https://github.com/user-attachments/assets/4dee9de0-832f-43ad-b24e-cdec4b2895a7" />
 
 <p align="center">
 
@@ -41,13 +41,10 @@
 </p>
 
 <p align="center">
-<a  href="https://renatocesar.netlify.app/">
+<a  href="https://backtopixels.vercel.app/">
  <img src="https://img.icons8.com/dusk/64/000000/favourite-file.png"/>
 </a>
 </p>
-
-
-
 
 <p align="center">
   <a href="re.fbarcellos@hotmail.com" src="https://image.flaticon.com/icons/svg/408/408195.svg" width="20" height="20"> <a/>
