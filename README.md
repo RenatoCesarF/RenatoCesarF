@@ -19,11 +19,11 @@ I'm passionate about building scalable, testable, and maintainable applications.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG:START -->
+- [Minha experiência com DragonRuby](https://backtopixels.vercel.app/blog/minha-primeira-experiencia-com-dragonruby)
 - [Minha primeira tentativa com Data-Oriented em Game-Dev](https://backtopixels.vercel.app/blog/minha-primeira-tentativa-com-data-oriented-em-game-dev)
 - [Arvore de arquitos em uma TUI](https://backtopixels.vercel.app/blog/arvore-de-arquivos-em-uma-tui)
 - [Sofrendo de Skill-issues em um desafio em Lua](https://backtopixels.vercel.app/blog/sofrendo-de-skill-issues-em-um-desafio-em-lua)
 - [The Problem with Isometric Graphics](https://backtopixels.vercel.app/blog/the-problem-with-isometric-graphics)
-- [A Big Turn in The Rings Project](https://backtopixels.vercel.app/blog/a-big-turn-in-the-rings-project)
 <!-- BLOG:END -->
 
 <hr>
