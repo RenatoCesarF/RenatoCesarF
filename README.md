@@ -10,7 +10,7 @@
 <hr>
 
 <h2> 👨‍💻 About Me </h2>
-I'm a Software Engineer with a degree in Information Systems and 5 years of experience in back-end development. I specialize in building scalable APIs using Python, TypeScript, Go, and .NET, with a strong foundation in software architecture, including microservices and CI/CD pipelines with GitHub Actions and Kubernetes.
+I'm a Software Engineer with a degree in Information Systems and 5 years of experience in back-end development. I specialize in building scalable APIs using Python, TypeScript, Go, and Ruby, with a strong foundation in software architecture, including microservices and CI/CD pipelines with GitHub Actions and Kubernetes.
 
 While my focus is on back-end engineering, I also have solid knowledge of React and Flutter, enabling me to contribute across the full stack with a process-optimization mindset.
 
